@@ -16,3 +16,5 @@ In line 20 give any name for the text file
 Tha's pretty much it. It can recoganize any text from any proper image.
 
 Final note: If you face errors while execution, you should solve it by your own. Debugging/Rectifying an error in a code is part a of programming.
+
+*This program was actually taken from geeksforgeeks for educational purpose. The original contributer was AnandhJagadeesan whome I have never even met. We hope that he didn't sue us for copying his work.*
