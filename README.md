@@ -7,7 +7,7 @@ To run this python program you have to download and install
     #cv2 - pip install cv2
     #pytesseract - pip install pytesseract, also you have find the github repo for the tesseract and install the '.exe' file
 
-Then in line 4 add the '.exe' path of tesseract.*The '.exe' file tat I've mentioned here is not the app you download from github but the file from the pip scripts. You find the location and add it to the path*
+Then in line 4 add the '.exe' path of tesseract.*The '.exe' file that I've mentioned here is not the app you download from github but the file from the pip scripts. You find the location and add it to the path*
 
 In line 6 give the name of the image file
 
